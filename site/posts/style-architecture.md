@@ -1,8 +1,8 @@
 ---
-title: Style architecture
+title: Style architecture测试
 date: "2019-10-29"
 description: "A short post about the approach to CSS architecture on this project"
-
+image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg
 tags:
   - demo-content
   - sample-post
