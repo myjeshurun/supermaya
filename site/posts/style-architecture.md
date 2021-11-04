@@ -2,6 +2,7 @@
 title: Style architecture
 date: "2019-10-29"
 description: "A short post about the approach to CSS architecture on this project"
+thumb: "https://i.imgur.com/AAVR2qH.jpg"
 tags:
   - demo-content
   - sample-post
@@ -11,6 +12,7 @@ tags:
 Supermaya doesn't have a lot of specific CSS. The vast majority of the styles relate to layout with only a few classes having thematic or presentational styles. It's designed this way so that you can extend it by adding presentational styles.
 
 If you want to extend the styles in this project you might notice they are written in a particular way. You might find this un-familiar or difficult to reason about at first. I've use specific conventions around style architecture that I've found to be scalable and maintainable for any size project. If you want to follow the same conventions I explain the methodologies here.
+
 
 ## Layout classes
 
