@@ -1,3 +1,14 @@
+---
+title: 职场事工
+date: "2019-10-29"
+description: "介绍教会的职场事工"
+image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg
+tags:
+  - demo-content
+  - 职场
+  - blog
+---
+
 在教会中推动职场事工，点燃职场基督徒的生命热情
 
 1. 教会的职场团契，从孔毅老师的“赢在扭转力”开始。
